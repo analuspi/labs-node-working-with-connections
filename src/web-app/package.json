@@ -1,7 +1,7 @@
 {
   "name": "labs-node-working-with-connections",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "Auth0 Labs Sample Web Application",
   "license": "MIT",
   "author": "Auth0",
